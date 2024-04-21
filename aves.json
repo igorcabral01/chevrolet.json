@@ -1,0 +1,75 @@
+{
+    "aves": [
+      {
+        "nome": "Papagaio-verdadeiro",
+        "nome_cientifico": "Amazona aestiva",
+        "habitat": "Florestas tropicais e subtropicais",
+        "alimentacao": "Frutas, sementes, flores e néctar",
+        "estado_conservacao": "Pouco preocupante"
+      },
+      {
+        "nome": "Gavião-real",
+        "nome_cientifico": "Harpia harpyja",
+        "habitat": "Florestas tropicais",
+        "alimentacao": "Mamíferos pequenos, répteis e aves",
+        "estado_conservacao": "Quase ameaçada"
+      },
+      {
+        "nome": "Tucano-toco",
+        "nome_cientifico": "Ramphastos toco",
+        "habitat": "Florestas tropicais e subtropicais",
+        "alimentacao": "Frutas, insetos e pequenos vertebrados",
+        "estado_conservacao": "Quase ameaçada"
+      },
+      {
+        "nome": "Arara-azul-grande",
+        "nome_cientifico": "Anodorhynchus hyacinthinus",
+        "habitat": "Savanas, matas de galeria e cerrados",
+        "alimentacao": "Sementes de palmeiras",
+        "estado_conservacao": "Vulnerável"
+      },
+      {
+        "nome": "Coruja-buraqueira",
+        "nome_cientifico": "Athene cunicularia",
+        "habitat": "Pradarias e campos abertos",
+        "alimentacao": "Insetos, pequenos roedores e répteis",
+        "estado_conservacao": "Pouco preocupante"
+      },
+      {
+        "nome": "Beija-flor-rubi",
+        "nome_cientifico": "Clytolaema rubricauda",
+        "habitat": "Florestas e matas ciliares",
+        "alimentacao": "Néctar de flores e insetos",
+        "estado_conservacao": "Pouco preocupante"
+      },
+      {
+        "nome": "Pica-pau-verde-barrado",
+        "nome_cientifico": "Colaptes melanochloros",
+        "habitat": "Mata Atlântica e cerrado",
+        "alimentacao": "Insetos e larvas encontrados sob a casca de árvores",
+        "estado_conservacao": "Pouco preocupante"
+      },
+      {
+        "nome": "Águia-careca",
+        "nome_cientifico": "Haliaeetus leucocephalus",
+        "habitat": "Lagos, rios, pântanos e áreas costeiras",
+        "alimentacao": "Peixes, aves, répteis e mamíferos",
+        "estado_conservacao": "Pouco preocupante"
+      },
+      {
+        "nome": "Gavião-carijó",
+        "nome_cientifico": "Rupornis magnirostris",
+        "habitat": "Diversos habitats, incluindo áreas urbanas",
+        "alimentacao": "Pequenos vertebrados, insetos e frutas",
+        "estado_conservacao": "Pouco preocupante"
+      },
+      {
+        "nome": "Quetzal",
+        "nome_cientifico": "Pharomachrus mocinno",
+        "habitat": "Florestas tropicais e subtropicais montanhosas",
+        "alimentacao": "Frutas, insetos, lagartos e pequenos vertebrados",
+        "estado_conservacao": "Quase ameaçada"
+      }
+    ]
+  }
+  

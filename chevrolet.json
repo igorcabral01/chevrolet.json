@@ -1,0 +1,165 @@
+{
+    "chevrolet_carros": [
+      {
+        "modelo": "Onix",
+        "ano": 2024,
+        "tipo": "Hatchback",
+        "motor": "1.0 Turbo",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Vermelho"],
+        "preco_base": 60000
+      },
+      {
+        "modelo": "Tracker",
+        "ano": 2024,
+        "tipo": "SUV",
+        "motor": "1.2 Turbo",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Azul"],
+        "preco_base": 80000
+      },
+      {
+        "modelo": "Cruze",
+        "ano": 2024,
+        "tipo": "Sedan",
+        "motor": "1.4 Turbo",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Cinza"],
+        "preco_base": 90000
+      },
+      {
+        "modelo": "Spin",
+        "ano": 2024,
+        "tipo": "Minivan",
+        "motor": "1.8 Flex",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Azul"],
+        "preco_base": 70000
+      },
+      {
+        "modelo": "S10",
+        "ano": 2024,
+        "tipo": "Picape",
+        "motor": "2.8 Turbo Diesel",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Vermelho"],
+        "preco_base": 120000
+      },
+      {
+        "modelo": "Equinox",
+        "ano": 2024,
+        "tipo": "SUV",
+        "motor": "2.0 Turbo",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Cinza"],
+        "preco_base": 100000
+      },
+      {
+        "modelo": "Camaro",
+        "ano": 2024,
+        "tipo": "Esportivo",
+        "motor": "6.2 V8",
+        "cores_disponiveis": ["Preto", "Branco", "Vermelho"],
+        "preco_base": 300000
+      },
+      {
+        "modelo": "Trailblazer",
+        "ano": 2024,
+        "tipo": "SUV",
+        "motor": "3.6 V6",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Azul"],
+        "preco_base": 150000
+      },
+      {
+        "modelo": "Cobalt",
+        "ano": 2024,
+        "tipo": "Sedan",
+        "motor": "1.8 Flex",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Cinza"],
+        "preco_base": 75000
+      },
+      {
+        "modelo": "Prisma",
+        "ano": 2024,
+        "tipo": "Sedan",
+        "motor": "1.0 Turbo",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Vermelho"],
+        "preco_base": 65000
+      },
+      {
+        "modelo": "Montana",
+        "ano": 2024,
+        "tipo": "Picape",
+        "motor": "1.4 Flex",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Azul"],
+        "preco_base": 65000
+      },
+      {
+        "modelo": "Corsa",
+        "ano": 2024,
+        "tipo": "Hatchback",
+        "motor": "1.0 Turbo",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Vermelho"],
+        "preco_base": 55000
+      },
+      {
+        "modelo": "Bolt",
+        "ano": 2024,
+        "tipo": "Carro Elétrico",
+        "motor": "Elétrico",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Azul"],
+        "preco_base": 100000
+      },
+      {
+        "modelo": "Blazer",
+        "ano": 2024,
+        "tipo": "SUV",
+        "motor": "2.0 Turbo",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Cinza"],
+        "preco_base": 110000
+      },
+      {
+        "modelo": "Impala",
+        "ano": 2024,
+        "tipo": "Sedan",
+        "motor": "3.6 V6",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Vermelho"],
+        "preco_base": 130000
+      },
+      {
+        "modelo": "Malibu",
+        "ano": 2024,
+        "tipo": "Sedan",
+        "motor": "2.0 Turbo",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Azul"],
+        "preco_base": 95000
+      },
+      {
+        "modelo": "Aveo",
+        "ano": 2024,
+        "tipo": "Hatchback",
+        "motor": "1.2 Turbo",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Vermelho"],
+        "preco_base": 58000
+      },
+      {
+        "modelo": "Astra",
+        "ano": 2024,
+        "tipo": "Hatchback",
+        "motor": "1.4 Turbo",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Azul"],
+        "preco_base": 70000
+      },
+      {
+        "modelo": "Celta",
+        "ano": 2024,
+        "tipo": "Hatchback",
+        "motor": "1.0 Flex",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Vermelho"],
+        "preco_base": 50000
+      },
+      {
+        "modelo": "Opala",
+        "ano": 2024,
+        "tipo": "Clássico",
+        "motor": "4.1",
+        "cores_disponiveis": ["Preto", "Branco", "Prata", "Azul"],
+        "preco_base": 80000
+      }
+    ]
+  }
+  

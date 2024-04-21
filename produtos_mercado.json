@@ -1,0 +1,210 @@
+{
+    "produtos_mercado": [
+      {
+        "nome": "Arroz",
+        "categoria": "Alimentos",
+        "marca": "Tio João",
+        "peso": "5kg",
+        "preco": 15.99
+      },
+      {
+        "nome": "Feijão",
+        "categoria": "Alimentos",
+        "marca": "Camil",
+        "peso": "1kg",
+        "preco": 4.50
+      },
+      {
+        "nome": "Macarrão",
+        "categoria": "Alimentos",
+        "marca": "Adria",
+        "tipo": "Espaguete",
+        "peso": "500g",
+        "preco": 3.25
+      },
+      {
+        "nome": "Óleo de Soja",
+        "categoria": "Alimentos",
+        "marca": "Liza",
+        "tipo": "Refinado",
+        "volume": "900ml",
+        "preco": 6.99
+      },
+      {
+        "nome": "Leite",
+        "categoria": "Laticínios",
+        "marca": "Nestlé",
+        "tipo": "Integral",
+        "volume": "1L",
+        "preco": 3.75
+      },
+      {
+        "nome": "Ovos",
+        "categoria": "Laticínios",
+        "marca": "Galo",
+        "quantidade": 12,
+        "preco": 8.99
+      },
+      {
+        "nome": "Café",
+        "categoria": "Alimentos",
+        "marca": "Pilão",
+        "tipo": "Tradicional",
+        "peso": "500g",
+        "preco": 8.50
+      },
+      {
+        "nome": "Açúcar",
+        "categoria": "Alimentos",
+        "marca": "União",
+        "tipo": "Cristal",
+        "peso": "1kg",
+        "preco": 3.20
+      },
+      {
+        "nome": "Sal",
+        "categoria": "Alimentos",
+        "marca": "Cisne",
+        "tipo": "Fino",
+        "peso": "1kg",
+        "preco": 1.50
+      },
+      {
+        "nome": "Farinha de Trigo",
+        "categoria": "Alimentos",
+        "marca": "Dona Benta",
+        "tipo": "Sem Fermento",
+        "peso": "1kg",
+        "preco": 4.00
+      },
+      {
+        "nome": "Margarina",
+        "categoria": "Alimentos",
+        "marca": "Qualy",
+        "tipo": "Com Sal",
+        "volume": "500g",
+        "preco": 2.99
+      },
+      {
+        "nome": "Sabão em Pó",
+        "categoria": "Limpeza",
+        "marca": "Omo",
+        "tipo": "Multiação",
+        "peso": "2kg",
+        "preco": 12.75
+      },
+      {
+        "nome": "Detergente",
+        "categoria": "Limpeza",
+        "marca": "Ypê",
+        "fragrancia": "Neutro",
+        "volume": "500ml",
+        "preco": 2.50
+      },
+      {
+        "nome": "Desinfetante",
+        "categoria": "Limpeza",
+        "marca": "Veja",
+        "fragrancia": "Lavanda",
+        "volume": "1L",
+        "preco": 5.25
+      },
+      {
+        "nome": "Amaciante de Roupas",
+        "categoria": "Limpeza",
+        "marca": "Downy",
+        "fragrancia": "Perfume de Rosas",
+        "volume": "1.5L",
+        "preco": 8.99
+      },
+      {
+        "nome": "Papel Higiênico",
+        "categoria": "Higiene",
+        "marca": "Neve",
+        "folhas": 30,
+        "preco": 9.50
+      },
+      {
+        "nome": "Escova de Dentes",
+        "categoria": "Higiene",
+        "marca": "Colgate",
+        "tipo": "Média",
+        "quantidade": 2,
+        "preco": 5.75
+      },
+      {
+        "nome": "Creme Dental",
+        "categoria": "Higiene",
+        "marca": "Sensodyne",
+        "tipo": "Branqueador",
+        "volume": "90g",
+        "preco": 7.99
+      },
+      {
+        "nome": "Shampoo",
+        "categoria": "Higiene",
+        "marca": "Pantene",
+        "tipo": "Hidratação",
+        "volume": "400ml",
+        "preco": 12.00
+      },
+      {
+        "nome": "Condicionador",
+        "categoria": "Higiene",
+        "marca": "Seda",
+        "tipo": "Restauração",
+        "volume": "350ml",
+        "preco": 8.50
+      },
+      {
+        "nome": "Sabonete",
+        "categoria": "Higiene",
+        "marca": "Dove",
+        "tipo": "Nutrição Profunda",
+        "quantidade": 6,
+        "preco": 9.25
+      },
+      {
+        "nome": "Creme Hidratante",
+        "categoria": "Higiene",
+        "marca": "Nivea",
+        "fragrancia": "Pele Seca",
+        "volume": "200ml",
+        "preco": 14.99
+      },
+      {
+        "nome": "Cerveja",
+        "categoria": "Bebidas",
+        "marca": "Skol",
+        "tipo": "Pilsen",
+        "volume": "350ml",
+        "preco": 2.50
+      },
+      {
+        "nome": "Refrigerante",
+        "categoria": "Bebidas",
+        "marca": "Coca-Cola",
+        "sabor": "Tradicional",
+        "volume": "2L",
+        "preco": 5.00
+      },
+      {
+        "nome": "Suco de Laranja",
+        "categoria": "Bebidas",
+        "marca": "Ades",
+        "sabor": "Natural",
+        "volume": "1L",
+        "preco": 4.75
+      },
+      {
+        "nome": "Vinho Tinto",
+        "categoria": "Bebidas",
+        "marca": "Concha y Toro",
+        "tipo": "Cabernet Sauvignon",
+        "volume": "750ml",
+        "preco": 25.99
+      }
+    ]
+ }
+
+  
